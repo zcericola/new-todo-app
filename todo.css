@@ -1,0 +1,12 @@
+body {
+    font-size: 3em;
+}
+
+.done {
+    text-decoration: line-through;
+    opacity: .5;
+}
+
+.selected {
+    color: darkblue;
+}
